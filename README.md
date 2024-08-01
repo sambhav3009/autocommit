@@ -3,7 +3,7 @@
 
 Auto commit
 
-Mazipan's Github Stats
+Sambhav's Github Stats
 
 Make it your own
 Create your own repo with click "Use this template" button (⚠️ forked repo will not work)
